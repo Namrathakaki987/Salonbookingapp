@@ -14,7 +14,7 @@ Step3: Open a new terminal window in VSCode and navigate to the "api" repository
 Step4: Install node modules
       command: npm init -y
       
-Step5: Set environment variables
+Step5: Set environment variables(.env)
        MONGO=<your-mongodb-uri>
        JWT=<your-jwt-secret>
 
